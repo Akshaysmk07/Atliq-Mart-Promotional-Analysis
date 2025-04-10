@@ -50,13 +50,13 @@ A star schema with `fact_events` at the center, connected to:
 Visual analysis conducted through three key dashboards:
 
 1. **Store Performance Analysis**  
-   📁 Path: `res/Store Performance Analysis.png`
+   ![Store Performance](res/Store%20Performance%20Analysis.png)
 
 2. **Promotion Type Analysis**  
-   📁 Path: `res/Promotion Type Analysis.png`
+   ![Promotion Type](res/Promotion%20Type%20Analysis.png)
 
 3. **Product & Category Analysis**  
-   📁 Path: `res/Product & Category Analysis.png`
+   ![Product & Category](res/Product%20%26%20Category%20Analysis.png)
 
 ---
 
