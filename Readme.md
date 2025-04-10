@@ -36,7 +36,7 @@ To analyze and evaluate:
 
 ## 🗃️ Data Model
 
-📁 Path: `res/data model.png`
+![Data Model](res/data%20model.png)
 
 A star schema with `fact_events` at the center, connected to:
 - `dim_stores`
